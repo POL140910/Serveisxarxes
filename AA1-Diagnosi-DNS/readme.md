@@ -1,5 +1,5 @@
 Captura 1
-![alt text](</img/Captura de pantalla 2026-11-05 184434.png>)
+![alt text](./img/Captura de pantalla 2026-11-05 184434.png)
 
 Captura 2
 ![alt text](</img/Captura de pantalla 2026-11-05 184629.png>)
